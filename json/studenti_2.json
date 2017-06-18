@@ -1,0 +1,62 @@
+[
+      {
+          "student_id":"2012/0112",
+          "ime":"Emilie Eric",
+          "smer":"ISiT",
+          "grad_id":1
+      },
+      {
+          "student_id":"2012/0161",
+          "ime":"Daniel Kostic",
+          "smer":"ISiT",
+          "grad_id":"2"
+      },
+      {
+          "student_id":"2011/0010",
+          "ime":"Milos Nikolic",
+          "smer":"ISiT",
+          "grad_id": 3
+      },
+      {
+          "student_id":"2012/0318",
+          "ime":"Nadica Dimitrijevic",
+          "smer":"ISiT",
+          "grad_id": 5
+      },
+            {
+          "student_id":"2013/0007",
+          "ime":"Nikola Music",
+          "smer":"ISiT",
+          "grad_id": 4
+      },
+      {
+          "student_id":"2015/0172",
+          "ime":"Rastko Cerge",
+          "smer":"Menadzment",
+          "grad_id": 3
+      },
+      {
+          "student_id":"2013/0184",
+          "ime":"Nadja Jelicic",
+          "smer":"ISiT",
+          "grad_id": 6
+      },
+      {
+          "student_id":"2013/0192",
+          "ime":"Marija Jankovic",
+          "smer":"ISiT",
+          "grad_id": 7
+      },
+      {
+          "student_id":"2012/0086",
+          "ime":"Jovana Pavlovic",
+          "smer":"ISiT",
+          "grad_id": 8
+      },
+      {
+          "student_id":"2012/0187",
+          "ime":"Petar Jelenkovic",
+          "smer":"Menadzment",
+          "grad_id": 3
+      }
+]

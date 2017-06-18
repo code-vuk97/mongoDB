@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 1,
+    "ime": "Cacak",
+    "postanski_broj": "3200",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[20.349722, 43.891389]
+    }
+  },
+  {
+    "_id": 2,
+    "ime": "Brzece",
+    "postanski_broj": "54000",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[20.887, 43.302]
+    }
+  },
+  {
+    "_id": 3,
+    "ime": "Beograd",
+    "postanski_broj": "11070",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[20.457273, 44.787197]
+    }
+  },
+  {
+    "_id": 4,
+    "ime": "Sarajevo",
+    "postanski_broj": "75000",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[18.35644, 43.84864]
+    }
+  },
+  {
+    "_id": 5,
+    "ime": "Petrovac na Mlavi",
+    "postanski_broj": "12300",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[21.41833166, 44.373665172]
+    }
+  },
+  {
+    "_id": 6,
+    "ime": "Brus",
+    "postanski_broj": "37220",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[21.035999856, 43.375498498]
+    }
+  },
+  {
+    "_id": 7,
+    "ime": "Nis",
+    "postanski_broj": "18000",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[21.8958, 43.3209]
+    }
+  },
+  {
+    "_id": 8,
+    "ime": "Kraljevo",
+    "postanski_broj": "36000",
+    "lokacija": {
+      "type": "Point",
+      "coordinates":[20.6873, 43.7238]
+    }
+  }
+]
