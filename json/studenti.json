@@ -1,0 +1,428 @@
+[
+        {
+          "student_id":"2012/0112",
+          "ime":"Emilie Eric",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"EPOS",
+                "ocena":"10",
+                "datumPolaganja":"20.3.2015",
+                "semestar":"V"
+            },
+            {
+                "predmet":"ITEH",
+                "ocena":"9",
+                "datumPolaganja":"20.4.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"IIU",
+                "ocena":"7",
+                "datumPolaganja":"21.5.2016",
+                "semestar":"VIII"
+            },
+            {
+                "predmet":"Internet Marketing",
+                "ocena":"8",
+                "datumPolaganja":"15.7.2016",
+                "semestar":"VIII"
+            }
+          ],
+          "grad":"Cacak",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[20.349722, 43.891389]
+          },
+          "Postanski_broj":"32000",
+          "srednja_skola":{
+            "grad":"Cacak",
+            "tip":"Gimnazija",
+            "naziv":"Gimnazija u Cacku",
+            "poeni_iz_skole":"40"
+          }
+      },
+      {
+          "student_id":"2012/0161",
+          "ime":"Daniel Kostic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"AROS",
+                "ocena":"6",
+                "datumPolaganja":"4.3.2013",
+                "semestar":"III"
+            },
+            {
+                "predmet":"Strukture podataka i algoritmi",
+                "ocena":"9",
+                "datumPolaganja":"13.4.2014",
+                "semestar":"IV"
+            },
+            {
+                "predmet":"PIS",
+                "ocena":"10",
+                "datumPolaganja":"10.1.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"Upravljanje kvalitetom",
+                "ocena":"8",
+                "datumPolaganja":"16.9.2016",
+                "semestar":"VIII"
+            }
+          ],
+          "grad":"Brzece",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[20.887, 43.302]
+          },
+          "Postanski_broj":"54000",
+          "srednja_skola":{
+            "grad":"Brus",
+            "tip":"Gimnazija",
+            "naziv":"Gimnazija u Brusu",
+            "poeni_iz_skole":"37.5"
+          }
+      },
+      {
+          "student_id":"2011/0010",
+          "ime":"Milos Nikolic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"EPOS",
+                "ocena":"10",
+                "datumPolaganja":"25.2.2014",
+                "semestar":"V"
+            },
+            {
+                "predmet":"Programski jezici",
+                "ocena":"6",
+                "datumPolaganja":"14.2.2015",
+                "semestar":"VI"
+            },
+            {
+                "predmet":"Baze podataka",
+                "ocena":"8",
+                "datumPolaganja":"5.10.2015",
+                "semestar":"VI"
+            },
+            {
+                "predmet":"ITEH",
+                "ocena":"9",
+                "datumPolaganja":"22.6.2015",
+                "semestar":"VII"
+            }
+          ],
+          "grad":"Beograd",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[20.457273, 44.787197]
+          },
+          "Postanski_broj":"11070",
+          "srednja_skola":{
+            "grad":"Beograd",
+            "tip":"Tehnicka",
+            "naziv":"Arhitektonska-tehnicka skola",
+            "poeni_iz_skole":"35"
+          }
+      },
+      {
+          "student_id":"2012/0318",
+          "ime":"Nadica Dimitrijevic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"INTELIGENTNI SISTEMI",
+                "ocena":"9",
+                "datumPolaganja":"18.3.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"ITEH",
+                "ocena":"8",
+                "datumPolaganja":"23.4.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"MATEMATIKA 2",
+                "ocena":"7",
+                "datumPolaganja":"21.5.2015",
+                "semestar":"II"
+            },
+            {
+                "predmet":"Internet Marketing",
+                "ocena":"8",
+                "datumPolaganja":"15.7.2016",
+                "semestar":"VIII"
+            }
+          ],
+          "grad":"Petrovac na Mlavi",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[21.41833166, 44.373665172]
+          },
+          "Postanski_broj":"12300",
+          "srednja_skola":{
+            "grad":"Pozarevac",
+            "tip":"Gimnazija",
+            "naziv":"Gimnazija u Pozarevcu",
+            "poeni_iz_skole":"38.13"
+          }
+      },
+            {
+          "student_id":"2013/0007",
+          "ime":"Nikola Music",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"OIKT",
+                "ocena":"10",
+                "datumPolaganja":"4.2.2014",
+                "semestar":"I"
+            },
+            {
+                "predmet":"Strukture podataka i algoritmi",
+                "ocena":"6",
+                "datumPolaganja":"14.7.2014",
+                "semestar":"IV"
+            },
+            {
+                "predmet":"SISJ",
+                "ocena":"8",
+                "datumPolaganja":"10.9.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"Teorija odlucivanja",
+                "ocena":"9",
+                "datumPolaganja":"23.11.2016",
+                "semestar":"VI"
+            }
+          ],
+          "grad":"Sarajevo",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[18.35644, 43.84864]
+          },
+          "Postanski_broj":"75000",
+          "srednja_skola":{
+            "grad":"Sarajevo",
+            "tip":"Gimnazija",
+            "naziv":"Treca gimnazija",
+            "poeni_iz_skole":"37.5"
+          }
+      },
+      {
+          "student_id":"2015/0172",
+          "ime":"Rastko Cerge",
+          "smer":"Menadzment",
+          "polozeni_ispiti":[
+            {
+                "predmet":"Matematika 1",
+                "ocena":"10",
+                "datumPolaganja":"25.2.2017",
+                "semestar":"I"
+            },
+            {
+                "predmet":"Osnovi organizacije",
+                "ocena":"7",
+                "datumPolaganja":"27.2.2017",
+                "semestar":"VI"
+            },
+            {
+                "predmet":"Marketing",
+                "ocena":"8",
+                "datumPolaganja":"15.1.2017",
+                "semestar":"III"
+            },
+            {
+                "predmet":"Progrmairanje 2",
+                "ocena":"9",
+                "datumPolaganja":"22.2.2017",
+                "semestar":"III"
+            }
+          ],
+          "grad":"Beograd",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[20.457273, 44.787197]
+          },
+          "Postanski_broj":"11000",
+          "srednja_skola":{
+            "grad":"Beograd",
+            "tip":"Gimnazija",
+            "naziv":"Petnaesta gimnazija",
+            "poeni_iz_skole":"35"
+          }
+      },
+      {
+          "student_id":"2013/0184",
+          "ime":"Nadja Jelicic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"EPOS",
+                "ocena":"10",
+                "datumPolaganja":"19.2.2017",
+                "semestar":"V"
+            },
+            {
+                "predmet":"PIS",
+                "ocena":"9",
+                "datumPolaganja":"23.1.2017",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"Modelovanje poslovnih procesa",
+                "ocena":"8",
+                "datumPolaganja":"21.6.2016",
+                "semestar":"VI"
+            },
+            {
+                "predmet":"Inteligentni sistemi",
+                "ocena":"6",
+                "datumPolaganja":"15.2.2017",
+                "semestar":"VII"
+            }
+          ],
+          "grad":"Brus",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[21.035999856, 43.375498498]
+          },
+          "Postanski_broj":"37220",
+          "srednja_skola":{
+            "grad":"Brus",
+            "tip":"Gimnazija",
+            "naziv":"Gimnazija u Brusu",
+            "poeni_iz_skole":"38.7"
+          }
+      },
+            {
+          "student_id":"2013/0192",
+          "ime":"Marija Jankovic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"Programski Jezici",
+                "ocena":"6",
+                "datumPolaganja":"20.6.2016",
+                "semestar":"VI"
+            },
+            {
+                "predmet":"ITEH",
+                "ocena":"9",
+                "datumPolaganja":"21.1.2017",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"Teorija sistema",
+                "ocena":"6",
+                "datumPolaganja":"18.2.2016",
+                "semestar":"V"
+            },
+            {
+                "predmet":"PIS",
+                "ocena":"8",
+                "datumPolaganja":"23.1.2017",
+                "semestar":"VII"
+            }
+          ],
+          "grad":"Nis",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[21.035999856, 43.375498498]
+          },
+          "Postanski_broj":"18000",
+          "srednja_skola":{
+            "grad":"Nis",
+            "tip":"Gimnazija",
+            "naziv":"Stevan Sremac",
+            "poeni_iz_skole":"37"
+          }
+      },
+      {
+          "student_id":"2012/0086",
+          "ime":"Jovana Pavlovic",
+          "smer":"ISiT",
+          "polozeni_ispiti":[
+            {
+                "predmet":"Matematika 3",
+                "ocena":"6",
+                "datumPolaganja":"20.6.2015",
+                "semestar":"V"
+            },
+            {
+                "predmet":"Strukture podataka i algoritmi",
+                "ocena":"7",
+                "datumPolaganja":"13.4.2014",
+                "semestar":"IV"
+            },
+            {
+                "predmet":"IIU",
+                "ocena":"10",
+                "datumPolaganja":"21.5.2016",
+                "semestar":"VIII"
+            },
+            {
+                "predmet":"Upravljanje kvalitetom",
+                "ocena":"6",
+                "datumPolaganja":"16.9.2016",
+                "semestar":"VIII"
+            }
+          ],
+          "grad":"Kraljevo",
+          "Postanski_broj":"36000",
+          "srednja_skola":{
+            "grad":"Kraljevo",
+            "tip":"Gimnazija",
+            "naziv":"Gimnazija Kraljevo",
+            "poeni_iz_skole":"36"
+          }
+      },
+      {
+          "student_id":"2012/0187",
+          "ime":"Petar Jelenkovic",
+          "smer":"Menadzment",
+          "polozeni_ispiti":[
+            {
+                "predmet":"AROS",
+                "ocena":"10",
+                "datumPolaganja":"4.3.2013",
+                "semestar":"III"
+            },
+            {
+                "predmet":"EPOS",
+                "ocena":"8",
+                "datumPolaganja":"20.3.2015",
+                "semestar":"V"
+            },
+            {
+                "predmet":"PIS",
+                "ocena":"7",
+                "datumPolaganja":"10.1.2016",
+                "semestar":"VII"
+            },
+            {
+                "predmet":"Internet Marketing",
+                "ocena":"10",
+                "datumPolaganja":"15.7.2016",
+                "semestar":"VIII"
+            }
+          ],
+          "grad":"Beograd",
+          "lokacija": {
+            "type": "Point",
+            "coordinates":[20.457273, 44.787197]
+          },
+          "Postanski_broj":"11000",
+          "srednja_skola":{
+            "grad":"Beograd",
+            "tip":"Gimnazija",
+            "naziv":"Matematicka Gimnazija",
+            "poeni_iz_skole":"36.6"
+          }
+      }
+]
