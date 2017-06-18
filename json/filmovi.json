@@ -1,0 +1,37 @@
+[
+  {
+    "naziv": "Podeljen",
+    "opis": "Covek kome su dijagnostikovane 23 razlicite licnosti unutar njega oteo je tri devojcice. One moraju probati da pobegnu pre nego sto se pojavi strasna i najgora 24.ta licnost i oduzme im zivote",
+    "ocena" : 7.4,
+    "glumci": ["James McAvoy", "Anya Taylor-Joy", "Haley Lu Richardson", "Jessica Sula"],
+    "godina": 2016
+  },
+  {
+    "naziv": "Colossal",
+    "opis": "Gloria je devojka bez posla koja voli avanture i da partija i koja mora napustiti svoj zivot u New York-u i vratiti se kuci. Kada se pojavi vest o ogromnom stvorenju koje unistava grad Seoul, na cudan nacin shvati da je ona nekako povezana sa tim fenomenom",
+    "ocena" : 6.5,
+    "glumci": ["Anne Hathaway", "Jason Sudeikis", "Austin Stowell", "Tim Blake Nelson"],
+    "godina": 2016
+  },
+  {
+    "naziv": "Izgubljeni grad Z",
+    "opis": "Film koji predstavlja istinit dogadjaj, ciji je glavmi lik britanski istrazivac Percival Fawcett, koji je nestao istrazivajuci misteriozni grad unutar Amazona davne 1920.te",
+    "ocena" : 7.1,
+    "glumci": ["Charlie Hunnam", "Robert Pattinson", "Sienna Miller", "Tom Holland"],
+    "godina": 2016
+  },
+  {
+    "naziv": "Tajne avanture kucnih ljubimaca",
+    "opis": "Miran zivot terijera zvanog Max biva poremecen kada njegov vlasnik uzima lutalicu koju Max ne voli uopste.",
+    "ocena" : 6.6,
+    "glumci": ["Louis C.K.", "Eric Stonestreet", "Kevin Hart", "Lake Bell"],
+    "godina": 2015
+  },
+  {
+    "naziv": "La La Land",
+    "opis": "Prica o zaljubljenom dzez pijanista i slavnoj glumicu u Los Angeles-u.",
+    "ocena" : 8.3,
+    "glumci": ["Ryan Gosling", "Emma Stone", "Rosemarie DeWitt", "J.K. Simmons"],
+    "godina": 2016
+  }
+]

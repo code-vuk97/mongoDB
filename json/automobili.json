@@ -1,0 +1,7 @@
+[
+  {"naziv":"Frank's Fords", "tip":"Ford", "loc":{ "type": "Point", "coordinates": [-114.11773681640625, 51.10682735591432]}},
+  {"naziv":"Steve's Suzukis", "tip":"Suzuki", "loc":{ "type": "Point", "coordinates": [-114.11773681640625, 51.09144802136697]}},
+  {"naziv":"Charlie's Chevrolets", "tip":"Chevrolet", "loc":{ "type": "Point", "coordinates": [-114.10400390625, 51.08282186160978]}},
+  {"naziv":"Nick's Nissans", "tip":"Nissan", "loc":{ "type": "Point", "coordinates": [-113.98040771484375, 51.12076493195686]}},
+  {"naziv":"Tom's Toyotas", "tip":"Toyota", "loc":{ "type": "Point", "coordinates": [-113.98040771484375, 50.93939251390387]}}
+]
